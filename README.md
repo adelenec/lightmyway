@@ -1,7 +1,7 @@
 # lightmyway 
 A shoe wearable that brings you home
 
-## DevPost: https://devpost.com/software/light-my-way-pot3he
+DevPost: https://devpost.com/software/light-my-way-pot3he
 
 ## Inspiration
 Two of our team members have loved ones that suffer from dementia and actually experienced getting lost. It is very dangerous, and we wanted to see how we could include
